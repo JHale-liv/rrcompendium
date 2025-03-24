@@ -16,3 +16,5 @@ RoxygenNote: 7.3.2
 Imports: here
 Suggests: devtools,
     git2r
+URL: https://github.com/JHale-liv/rrcompendium
+BugReports: https://github.com/JHale-liv/rrcompendium/issues
